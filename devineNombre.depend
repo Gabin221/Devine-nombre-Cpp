@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655650802 source:c:\users\serru\documents\codes\c++\devinenombre\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+	<string>
+
